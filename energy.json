@@ -1,0 +1,183 @@
+{"nodes":[
+
+	{
+		"name": "Cust activates NewDevice"
+	},
+	{
+		"name": "IVR Interaction 1"
+	},
+	{
+		"name": "IVR Interaction 2"
+	},
+	{
+		"name": "IVR Interaction 3"
+	},
+	{
+		"name": "IVR Interaction 4"
+	},
+	{
+		"name": "MobileApp Interaction 1"
+	},
+	{
+		"name": "MobileApp Interaction 2"
+	},
+	{
+		"name": "MobileApp Interaction 3"
+	},
+	{
+		"name": "MobileApp Interaction 4"
+	},
+	{
+		"name": "MobileApp Interaction 5"
+	},
+	{
+		"name": "MobileApp Interaction 6"
+	},
+	{
+		"name": "MobileApp Interaction 7"
+	},
+	{
+		"name": "Online Interaction 1"
+	},
+	{
+		"name": "Online Interaction 2"
+	},
+	{
+		"name": "Online Interaction 3"
+	},
+	{
+		"name": "Online Interaction 4"
+	},
+	{
+		"name": "Online Interaction 5"
+	},
+	{
+		"name": "Retail - Direct 1"
+	},
+	{
+		"name": "Retail - Direct 2"
+	},
+	{
+		"name": "Retail - Direct 3"
+	},
+	{
+		"name": "Retail - Direct 4"
+	},
+	{
+		"name": "Retail - Direct 5"
+	},
+	{
+		"name": "Retail - Indirect 1"
+	},
+	{
+		"name": "Retail - Indirect 2"
+	},
+	{
+		"name": "Retail - Indirect 3"
+	},
+	{
+		"name": "Retail - Indirect 4"
+	},
+	{
+		"name": "Spoke with Care Rep 1"
+	},
+	{
+		"name": "Spoke with Care Rep 2"
+	},
+	{
+		"name": "Spoke with Care Rep 3"
+	},
+	{
+		"name": "Telesales 1"
+	},
+	{
+		"name": "Telesales 2"
+	}
+
+],
+"links":[
+{"source":0,"target":22,"value":16391.0},
+{"source":0,"target":26,"value":2076.0},
+{"source":0,"target":12,"value":4682.0},
+{"source":0,"target":29,"value":366.0},
+{"source":0,"target":17,"value":22610.0},
+{"source":0,"target":5,"value":6000.0},
+{"source":0,"target":1,"value":4637.0},
+{"source":1,"target":2,"value":696.0},
+{"source":1,"target":6,"value":202.0},
+{"source":1,"target":23,"value":283.0},
+{"source":1,"target":18,"value":456.0},
+{"source":1,"target":27,"value":412.0},
+{"source":1,"target":13,"value":380.0},
+{"source":2,"target":19,"value":577.0},
+{"source":2,"target":24,"value":209.0},
+{"source":2,"target":14,"value":445.0},
+{"source":2,"target":7,"value":252.0},
+{"source":2,"target":3,"value":1729.0},
+{"source":2,"target":28,"value":195.0},
+{"source":3,"target":20,"value":248.0},
+{"source":3,"target":15,"value":84.0},
+{"source":3,"target":4,"value":1049.0},
+{"source":5,"target":13,"value":324.0},
+{"source":5,"target":2,"value":90.0},
+{"source":5,"target":18,"value":102.0},
+{"source":5,"target":23,"value":123.0},
+{"source":5,"target":6,"value":1310.0},
+{"source":6,"target":14,"value":185.0},
+{"source":6,"target":7,"value":1520.0},
+{"source":7,"target":8,"value":806.0},
+{"source":8,"target":9,"value":397.0},
+{"source":9,"target":10,"value":177.0},
+{"source":10,"target":11,"value":86.0},
+{"source":12,"target":6,"value":335.0},
+{"source":12,"target":27,"value":100.0},
+{"source":12,"target":13,"value":1544.0},
+{"source":12,"target":2,"value":124.0},
+{"source":12,"target":18,"value":560.0},
+{"source":12,"target":23,"value":214.0},
+{"source":13,"target":24,"value":118.0},
+{"source":13,"target":19,"value":455.0},
+{"source":13,"target":7,"value":313.0},
+{"source":13,"target":14,"value":2022.0},
+{"source":13,"target":3,"value":391.0},
+{"source":14,"target":15,"value":959.0},
+{"source":14,"target":4,"value":77.0},
+{"source":14,"target":20,"value":97.0},
+{"source":15,"target":16,"value":195.0},
+{"source":17,"target":13,"value":3284.0},
+{"source":17,"target":27,"value":575.0},
+{"source":17,"target":18,"value":6607.0},
+{"source":17,"target":6,"value":926.0},
+{"source":17,"target":2,"value":4016.0},
+{"source":18,"target":19,"value":1628.0},
+{"source":18,"target":7,"value":232.0},
+{"source":18,"target":28,"value":112.0},
+{"source":18,"target":3,"value":1162.0},
+{"source":18,"target":14,"value":1034.0},
+{"source":19,"target":15,"value":223.0},
+{"source":19,"target":20,"value":514.0},
+{"source":19,"target":4,"value":150.0},
+{"source":20,"target":21,"value":75.0},
+{"source":22,"target":27,"value":918.0},
+{"source":22,"target":6,"value":1013.0},
+{"source":22,"target":18,"value":96.0},
+{"source":22,"target":13,"value":1557.0},
+{"source":22,"target":2,"value":2238.0},
+{"source":22,"target":23,"value":3224.0},
+{"source":23,"target":14,"value":183.0},
+{"source":23,"target":3,"value":297.0},
+{"source":23,"target":28,"value":129.0},
+{"source":23,"target":7,"value":143.0},
+{"source":23,"target":24,"value":561.0},
+{"source":24,"target":25,"value":142.0},
+{"source":26,"target":18,"value":93.0},
+{"source":26,"target":27,"value":159.0},
+{"source":26,"target":2,"value":593.0},
+{"source":26,"target":30,"value":260.0},
+{"source":26,"target":23,"value":180.0},
+{"source":27,"target":24,"value":105.0},
+{"source":27,"target":19,"value":75.0},
+{"source":27,"target":3,"value":729.0},
+{"source":30,"target":3,"value":106.0}
+
+]}
